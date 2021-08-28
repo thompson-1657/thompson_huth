@@ -1,0 +1,32 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Tangerine&display=swap");
+
+body {
+  background-color: #87aca3;
+}
+
+.wedding-pic {
+  width: 700px;
+  height: 450px;
+  margin-top: 12vh;
+  opacity: 90%;
+}
+
+.main-names {
+  margin: auto;
+  /* font-family: "Great Vibes", cursive; */
+  font-family: "Tangerine", cursive;
+  /* font-weight: bold; */
+  font-size: 90px;
+  color: black;
+  font-style: italic;
+  text-shadow: 1px 3px 6px #000000;
+}
+
+.lisa {
+  margin-bottom: 0;
+}
+
+.joe {
+  margin-top: 0;
+}

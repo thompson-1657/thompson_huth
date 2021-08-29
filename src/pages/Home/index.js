@@ -1,6 +1,6 @@
 import React from "react";
 import wedding from "../../images/wedding.jpg";
-import "bootstrap/dist/css/bootstrap.min.css";
+
 import BrideGroomNames from "../../components/BrideGroomNames";
 import "./style.css";
 

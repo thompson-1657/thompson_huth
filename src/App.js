@@ -6,6 +6,7 @@ import Ideas from "./pages/Ideas";
 import Countdown from "./pages/Countdown";
 import How from "./pages/How";
 import Whoops404 from "./pages/Whoops404";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
